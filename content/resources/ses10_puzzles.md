@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: da5dcd13-49c0-0762-862a-ae35841bb4ce
 resourcetype: Document
 title: ses10_puzzles.pdf
 uid: ce95f971-588a-7a4e-2062-42d1cb19c56b

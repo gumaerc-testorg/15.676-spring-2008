@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: da5dcd13-49c0-0762-862a-ae35841bb4ce
 resourcetype: Document
 title: ses2_history.pdf
 uid: 98a11539-b315-eb57-a44d-fb220aef285e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: da5dcd13-49c0-0762-862a-ae35841bb4ce
 resourcetype: Document
 title: ses5_institutins.pdf
 uid: 9bb8f256-8cda-0364-14a5-8974d945c8fc

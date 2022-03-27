@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: da5dcd13-49c0-0762-862a-ae35841bb4ce
 resourcetype: Document
 title: ses7_psych.pdf
 uid: f80b17cb-8498-72c1-36fe-13cc3ddd5fd7
