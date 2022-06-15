@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of required books for the text and information
+  on readings assigned for the lecture sessions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -343,4 +345,4 @@ Wrap-up
 
 {{< tableclose >}}
 
-[Appendix]({{< baseurl >}}/pages/readings/appendix)
+{{% resource_link 4bcb4c4e-519e-59ed-3c5d-37544e45ff16 "Appendix" %}}
