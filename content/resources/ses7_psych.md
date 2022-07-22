@@ -5,6 +5,7 @@ file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses7_psych.pdf
 uid: f80b17cb-8498-72c1-36fe-13cc3ddd5fd7
 ---
 Lecture notes on the psychological foundations of human resource management.
-

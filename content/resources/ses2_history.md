@@ -6,6 +6,7 @@ file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ses2_history.pdf
 uid: 98a11539-b315-eb57-a44d-fb220aef285e
 ---
 Lecture notes on the evolution of the field of industrial relations in the context of the changing social, economic, and political environments.
-

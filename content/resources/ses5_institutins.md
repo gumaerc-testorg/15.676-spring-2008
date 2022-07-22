@@ -5,6 +5,7 @@ file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses5_institutins.pdf
 uid: 9bb8f256-8cda-0364-14a5-8974d945c8fc
 ---
 Lecture notes on institutional and internal labor market theory.
-

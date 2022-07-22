@@ -6,6 +6,7 @@ file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ses3_theory.pdf
 uid: f73ec80b-52ec-10ab-e3cd-5b158568b313
 ---
 Lecture notes on the bases of pluralist/institutional industrial relations theory.
-
