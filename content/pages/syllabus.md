@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides the course overview and information on
+  course meeting ties, participating faculty, and a tentative list of course topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 157a721a-52a2-5766-df64-51796cb4fffe
 ---

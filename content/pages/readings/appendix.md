@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 45a9a1ab-9f3f-1179-d4ac-9383c2a890d1
 title: Appendix
 uid: 4bcb4c4e-519e-59ed-3c5d-37544e45ff16

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with information
+  on lecture topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: da5dcd13-49c0-0762-862a-ae35841bb4ce
 ---
@@ -36,9 +41,9 @@ Prof. Thomas Kochan, MIT Sloan, and IWER (Institute for Work and Employment Rese
 {{< tdopen >}}
 
 
-Session 1 ([PDF]({{< baseurl >}}/resources/ses1_intro))
+Session 1 ({{% resource_link 11159fcc-3937-2ec9-1b45-bb8c004db061 "PDF" %}})
 
-Session 2 ([PDF]({{< baseurl >}}/resources/ses2_history))
+Session 2 ({{% resource_link 98a11539-b315-eb57-a44d-fb220aef285e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -58,7 +63,7 @@ Prof. Thomas Kochan, MIT Sloan
 
 {{< tdclose >}}
 {{< tdopen >}}
-Attributes of a good theory ([PDF]({{< baseurl >}}/resources/ses3_theory))
+Attributes of a good theory ({{% resource_link f73ec80b-52ec-10ab-e3cd-5b158568b313 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Prof. Paul Osterman, MIT Sloan
 
 {{< tdclose >}}
 {{< tdopen >}}
-The role and study of institutions ([PDF]({{< baseurl >}}/resources/ses5_institutins))
+The role and study of institutions ({{% resource_link 9bb8f256-8cda-0364-14a5-8974d945c8fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +135,7 @@ Prof. Joseph Martocchio, Prof. Aparna Joshi, and Prof. John Dencker, all Univers
 
 {{< tdclose >}}
 {{< tdopen >}}
-From personnel to human resource management ([PDF]({{< baseurl >}}/resources/ses7_psych))
+From personnel to human resource management ({{% resource_link f80b17cb-8498-72c1-36fe-13cc3ddd5fd7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +189,7 @@ Joel Cutcher-Gershenfeld, MIT Engineering Systems Division, and Prof. Robert McK
 
 {{< tdclose >}}
 {{< tdopen >}}
-Negotiations puzzles ([PDF]({{< baseurl >}}/resources/ses10_puzzles))
+Negotiations puzzles ({{% resource_link ce95f971-588a-7a4e-2062-42d1cb19c56b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
