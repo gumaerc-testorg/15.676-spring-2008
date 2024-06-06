@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the bases of pluralist/institutional industrial relations
   theory.
 file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/f73ec80b52ec10abe3cd5b158568b313_ses3_theory.pdf
+file_size: 174890
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
