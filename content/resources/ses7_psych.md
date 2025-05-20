@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the psychological foundations of human resource management.
-file: /ol-ocw-studio-app/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/f80b17cb849872c136fe13cc3ddd5fd7_ses7_psych.pdf
+file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/f80b17cb849872c136fe13cc3ddd5fd7_ses7_psych.pdf
 file_size: 169894
 file_type: application/pdf
 learning_resource_types:

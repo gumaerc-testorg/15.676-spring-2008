@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on institutional and internal labor market theory.
-file: /ol-ocw-studio-app/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/9bb8f2568cda036414a58974d945c8fc_ses5_institutins.pdf
+file: /courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/9bb8f2568cda036414a58974d945c8fc_ses5_institutins.pdf
 file_size: 164549
 file_type: application/pdf
 learning_resource_types:
